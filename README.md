@@ -4,7 +4,7 @@
 Mappy App project This web application lets you track your workouts via geolocation in the browser, and store them securely on device. Mappy (running or cycling): Once you finish a run or cycle in Mapty, you can enter new workout entries where the activity type is your choice and other key details are distance & durance. You can even plot your bike riding workout routes on the map itself by adding start and end points of it as well.
 
 ## Preview
-https://github.com/PriyanshuCoder007/Mappy-App/assets/160310889/4d913c51-0474-40d7-83b4-9d21f3aadac2
+https://github.com/PriyanshuCoder007/Mappy-WebApp/assets/160310889/4d913c51-0474-40d7-83b4-9d21f3aadac2
 
 Mappy takes advantage of current web technologies including HTML, CSS and JavaScript. It uses the Leaflet library for mapping and includes a custom Workout library for managing your exercise data
 
