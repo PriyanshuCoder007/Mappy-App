@@ -9,7 +9,7 @@ https://github.com/PriyanshuCoder007/Mappy-WebApp/assets/160310889/4d913c51-0474
 Mappy takes advantage of current web technologies including HTML, CSS and JavaScript. It uses the Leaflet library for mapping and includes a custom Workout library for managing your exercise data
 
 ## Mappy-app
-  ### [Click Here](https://priyanshucoder007.github.io/Mappy-App/).
+  ### [Click Here](https://priyanshucoder007.github.io/Mappy-WebApp/).
 
 ## Features
 
